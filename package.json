@@ -1,0 +1,19 @@
+{
+  "name": "@altergo/prettier-config",
+  "version": "1.0.0",
+  "description": "Altergo prettier config",
+  "main": "index.js",
+  "module": "index.es6.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altergo-tech/prettier-config"
+  },
+  "author": {
+    "name": "Mikhail Smirnov",
+    "email": "smrnvmkhl@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  }
+}

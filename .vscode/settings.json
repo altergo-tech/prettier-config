@@ -1,0 +1,6 @@
+{
+  "conventionalCommits.scopes": ["config", "package"],
+  "prettier.configPath": "index.js",
+  "prettier.packageManager": "yarn",
+  "javascript.validate.enable": false
+}
