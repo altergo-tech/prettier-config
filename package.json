@@ -1,6 +1,6 @@
 {
   "name": "@altergo/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Altergo Prettier config",
   "main": "index.js",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "url": "https://github.com/altergo-tech/prettier-config"
   },
   "engines": {
-    "node": ">= 12.18.2",
+    "node": ">= 10.21.0",
     "yarn": ">= 1.22.4"
   },
   "publishConfig": {
