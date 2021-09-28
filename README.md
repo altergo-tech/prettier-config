@@ -1,21 +1,15 @@
-# @altergo/prettier-config
-
-Altergo Prettier config
+# @altergo-tech/prettier-config
 
 ## Getting Started
 
-1. Install the package for local development
+1. Install the package
 
    ```bash
-   yarn add -D @altergo/prettier-config
+   npm add -D @altergo-tech/prettier-config
    ```
 
-2. Add a file `.prettierrc.js`
+2. Add a file `.prettierrc.yml`
 
-   ```js
-   import altergoPrettierConfig from '@altergo/prettier-config';
-
-   export default {
-     ...altergoPrettierConfig,
-   };
+   ```yml
+   "@altergo-tech/prettier-config"
    ```
