@@ -1,7 +1,7 @@
 {
   "name": "@altergo-tech/prettier-config",
   "version": "1.0.0",
-  "description": "Altergo Prettier config",
+  "description": "Prettier config",
   "main": "index.js",
   "license": "MIT",
   "author": {
