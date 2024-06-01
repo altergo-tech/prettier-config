@@ -1,0 +1,6 @@
+{
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "htmlWhitespaceSensitivity": "strict",
+  "quoteProps": "consistent",
+  "singleQuote": true
+}
